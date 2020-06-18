@@ -1,2 +1,2 @@
-# learnGodot2D
+# LearnGodot2D
 learn godot engine
